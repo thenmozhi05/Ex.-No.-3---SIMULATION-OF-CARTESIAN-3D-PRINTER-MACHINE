@@ -127,6 +127,9 @@ a spool refers to a roll of filament that is used as the printing material for t
 
 
 ## Output:
+## playing with axes:
+![image](https://github.com/thenmozhi05/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/140684207/64eb5776-5165-4924-bada-dbee892c83ed)
+
 
 ### Name: thenmozhi p
 ### Register Number: 23005024
